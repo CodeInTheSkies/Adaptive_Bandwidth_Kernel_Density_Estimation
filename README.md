@@ -7,4 +7,8 @@ This repo contains software accompanying the publication ["Adaptive bandwidth ke
 
 Please cite the above publication if you use the described algorithm or this software.
 
-This repo includes a Matlab implementation (MainKDE.m) and an R implementation (AKDESeq.R) with code implementing the adaptive bandwidth kernel density estimation schemes described in the above publication. Usage instructions can be found in comments at the top of each file. The Matlab code is more polished, has some extra features, and is faster. However, if you are not a Matlab user, the R version implements the main algorithm equally well. Both codes are free for non-commercial use. 
+This repo includes a Matlab implementation (MainKDE.m) and an R implementation (AKDESeq.R) with code implementing the adaptive bandwidth kernel density estimation schemes described in the above publication. 
+
+Usage instructions can be found in comments at the top of each file.
+
+The Matlab code is more polished, has some extra features, and is faster. However, if you are not a Matlab user, the R version implements the main algorithm equally well. Both codes are free for non-commercial use. 
